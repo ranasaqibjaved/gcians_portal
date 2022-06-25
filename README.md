@@ -10,3 +10,12 @@
  <p>5 : In browser go to http://127.0.0.1:8000/install and click on the button. By clicking button all sql tables will be imported in your database named fyp</p>
  <p>6 : After that , you will be redirected to a page where you can create an admin user</p>
  <p>7 : Home page will be opened after creating admin account and than you can explor next in website</p>
+ 
+ <h1>Requirements :</h1>
+ <p>Laravel 9</p>
+ <p>PHP 8</p>
+ <p>xamp</p>
+ 
+ <h1>Complete Video :</h1>
+ <p>Coming soon....</p>
+ 
